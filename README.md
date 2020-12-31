@@ -1,5 +1,5 @@
 # simple_node_with_travis
-A simple node application with CI using travis
+A simple node application with CI using travis.
 
 # Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
